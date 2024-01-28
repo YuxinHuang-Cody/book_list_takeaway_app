@@ -23,4 +23,32 @@ Book List Takeaway App is a Flutter application designed to help users manage th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/book_list_takeaway_app.git
+   https://github.com/YuxinHuang-Cody/book_list_takeaway_app.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd book_list_takeaway_app
+   
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+
+### Running Locally
+To run the app on your local machine, follow these steps:
+
+1. Ensure Flutter is properly installed. 
+
+2. Open a terminal and navigate to the project directory:
+
+   ```bash
+   cd book_list_takeaway_app
+   
+3. Run the app:
+
+   ```bash
+   flutter run
+
+4. Open the app on your emulator or device.
+

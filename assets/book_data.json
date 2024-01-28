@@ -1,0 +1,102 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publicationYear": 1960
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publicationYear": 1949
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publicationYear": 1925
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publicationYear": 1932
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publicationYear": 1951
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "publicationYear": 1967
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publicationYear": 1954
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publicationYear": 1937
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "publicationYear": 1997
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "publicationYear": 1950
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "publicationYear": 1851
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publicationYear": 1813
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "publicationYear": 1977
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "publicationYear": 1979
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publicationYear": 1818
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "publicationYear": 1865
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publicationYear": -800
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "publicationYear": 2006
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "publicationYear": 2005
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publicationYear": 1988
+  }
+]

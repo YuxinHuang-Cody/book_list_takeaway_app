@@ -4,9 +4,9 @@ Book List Takeaway App is a Flutter application designed to help users manage th
 
 ## Features
 
-- View a list of books.
-- Add new books to your collection.
-- Remove books from your collection.
+- **View books:** Add number icons for a more user-friendly UI
+- **Add new books:** Check for the presence of valid information in the title, author, and publication year fields of a book.
+- **Remove Books:** Easily declutter your collection by swiping left on a book.
 - **First Launch Data Loading:** On the initial app launch, the data from `assets/book_data.json` is read and loaded. Subsequent additions or deletions of books will store the book's JSON data locally on the mobile device.
 
 ![Example GIF](https://github.com/YuxinHuang-Cody/book_list_takeaway_app/blob/master/demo.gif)

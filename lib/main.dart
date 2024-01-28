@@ -11,9 +11,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Book Lists',
-      theme: ThemeData(
-        primarySwatch: Colors.orange,
-      ),
       home: HomePage(),
     );
   }
